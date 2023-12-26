@@ -1,3 +1,3 @@
 # class ItalianFood < ActiveRecord::Base
-class ItalianFood < food
+class ItalianFood < Food
 end
